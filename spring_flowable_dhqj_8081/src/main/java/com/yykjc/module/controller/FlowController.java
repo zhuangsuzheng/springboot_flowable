@@ -21,6 +21,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 到货全检
+ * */
 @RequestMapping("/flow")
 @RestController
 public class FlowController {
